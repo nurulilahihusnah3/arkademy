@@ -1,0 +1,20 @@
+{
+    "Nama": "Nurul Ilahi Husnah",
+    "Age": " 23 ",
+    "Address": " Jl. Raya Keadilan Blok Sawo 7 Depok",
+    "Hobbies": [
+        "coding",
+        "gaming"
+    ],
+    "Is_Married": false,
+    "List_School":[
+        "MAN 1 Kota Sukabumi",
+        "2012 -2015",
+        "Null"
+    ],
+    "Skills":[
+        "Nurul Ilahi Husnah",
+        "beginner"
+    ],
+        "Interest_in_coding": true
+}
